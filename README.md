@@ -10,8 +10,8 @@
 
 - 📫 How to reach me:
    
-   github: [MUMU46]("https://github.com/MUMU46")
-   email: [MUMU46]("https://mail.qq.com/cgi-bin/frame_html?sid=0gaO4ttDCnMEBGgJ&r=1e984844a87198eec7f62142ceb46da8")
+   github: [https://github.com/MUMU46]("https://github.com/MUMU46")
+   email:  1819883988@qq.com
 
 
 

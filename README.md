@@ -2,8 +2,6 @@
 
 - 🏫 I’m currently studying on CCNU
 
-- 📍 I‘m from '河南 南阳'
-
 - 🌱 I’m currently learning frontend 、 machine learning and more...
 
 - 👯 Program experience: Web、WechatProgram and more in the future...
